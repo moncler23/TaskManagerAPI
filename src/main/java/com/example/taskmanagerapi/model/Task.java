@@ -1,9 +1,12 @@
 package com.example.taskmanagerapi.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
 public class Task {
 
+ //nma qvosla ka====
 
-    // Emre kot
-    //nam gaaaap
+
 
 }
