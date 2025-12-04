@@ -5,8 +5,7 @@ import jakarta.persistence.Id;
 
 public class Task {
 
- //nma qvosla ka====
-
+// i did some changes on this project
 
 
 }
