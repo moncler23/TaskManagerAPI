@@ -5,7 +5,10 @@ import jakarta.persistence.Id;
 
 public class Task {
 
-    //Odnako est izmineniya
+// i did some changes on this project
+
+    // yana nmadrt qildim
+    
 
 
 }
