@@ -1,5 +1,7 @@
 package com.example.taskmanagerapi.model;
 
+import java.sql.SQLOutput;
+
 public class TaskReview {
 
     public void rename (){
@@ -10,6 +12,9 @@ public class TaskReview {
         }
         else{
             System.out.println("bad bye");
+        }
+        for(int i=0; i<10; i++){
+            System.out.println(i);
         }
     }
 
