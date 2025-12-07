@@ -31,5 +31,7 @@ public class Task {
 
     String line = "Fagan";
 
+    String Kurdistan = "   ";
+
 
 }
