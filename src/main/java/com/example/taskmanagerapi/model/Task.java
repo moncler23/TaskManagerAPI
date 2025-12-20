@@ -11,13 +11,14 @@ public class Task {
 
     @Column(nullable = false)
     private String title;
-
     private boolean done = false;
 
-    public Task() {}
+    public Task() {
+    }
 
     public Task(String title) {
         this.title = title;
+        done = false;
     }
 
     public Long getId() { return id; }
