@@ -1,0 +1,22 @@
+### GET request to example server
+GET http://localhost:8080/tasks
+
+###
+POST http://localhost:8080/tasks
+Content-Type: application/json
+
+{
+  "title": "Learn Spring Boot with IntelliJ"
+}
+
+###
+
+POST http://localhost:8080/tasks
+Content-Type: application/json
+
+{
+ "title" : "Take medicine in the morming"
+}
+
+###
+DELETE http://localhost:8080/tasks/2
