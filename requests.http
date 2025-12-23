@@ -20,3 +20,6 @@ Content-Type: application/json
 
 ###
 DELETE http://localhost:8080/tasks/2
+
+###
+GET http://localhost:8080/tasks/3
